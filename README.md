@@ -10,7 +10,7 @@ Anaconda: Make sure you have Anaconda installed on your system.
 Setup Environment
 Clone this repository to your local machine.
 
-git clone https://github.com/yourusername/generative_ai_task_cogentlab.git
+git clone https://github.com/yourusername/Generative_AI_cogent_lab.git
 Navigate to the project directory.
 
 cd generative_ai_task_cogentlab
