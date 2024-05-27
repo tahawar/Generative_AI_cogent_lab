@@ -61,9 +61,7 @@ jupyter notebook
 
 This command will launch the Jupyter Notebook interface in your default web browser where you can open and run notebook files.
 
-## Acknowledgments
 
-Special thanks to Cogent Lab for providing the Generative AI Task which facilitated the development of this project.
 
 ## Note
 
